@@ -3,7 +3,7 @@
 
 #### Data set : https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 
-#### Hall of Fame : Martin Berthier, Quentin Bertrand, Janethe Ferhoune, Fanoa Razafimbelo, Yohann Blackburn
+#### Hall of Fame : Yohann Blackburn, Martin Berthier,Quentin Bertrand, Fanoa Razafimbelo, Janethe Ferhoune
     Référent : Kirian Guiller
     Évaluateur : Kirian Guiller, Kim Gerdes
    
