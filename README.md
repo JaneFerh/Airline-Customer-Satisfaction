@@ -1,6 +1,6 @@
 # Airline Customer Satisfaction
 
-*Introduction à l'Apprentissage Statistique - L3 Informatique parcours MIAGE*
+*Introduction à l'Apprentissage Statistique (IAS) - L3 Informatique parcours MIAGE*
 
 #### Data set : https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 
