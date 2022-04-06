@@ -6,4 +6,5 @@
     Référent : Kirian Guiller
     Évaluateur : Kirian Guiller, Kim Gerdes
    
-Description : Lors de ce projet, nous allons tenter de prédire la satisfaction d'un client d'un compagnie aérienne à partir de données présentes dans notre dataset
+#### Description :
+Lors de ce projet, nous avons tenter de prédire la satisfaction d'un client d'une compagnie aérienne à partir de données présentes dans notre dataset
