@@ -1,8 +1,8 @@
-# Projet de L3, Introduction à l'Apprentissage Statistique
+## Projet de L3, Introduction à l'Apprentissage Statistique
 
-## Data set : https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
+### Data set : https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 
-### Hall of Fame : Martin Berthier, Quentin Bertrand, Janethe Ferhoune, Fanoa Razafimbelo, Yohann Blackburn
+#### Hall of Fame : Martin Berthier, Quentin Bertrand, Janethe Ferhoune, Fanoa Razafimbelo, Yohann Blackburn
     Référent : Kirian Guiller
     Évaluateur : Kirian Guiller, Kim Gerdes
    
