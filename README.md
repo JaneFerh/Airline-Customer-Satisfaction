@@ -1,4 +1,5 @@
-## Projet de L3, Introduction à l'Apprentissage Statistique
+## Airline Customer Satisfaction
+Matière: Introduction à l'Apprentissage Statistique (L3 Informatique parcours MIAGE)
 
 ### Data set : https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 
