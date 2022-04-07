@@ -1,10 +1,10 @@
-# Airline Customer Satisfaction
+# Airline-Customer-Satisfaction
 
 *Introduction à l'Apprentissage Statistique (IAS) - L3 Informatique parcours MIAGE*
 
 #### Data set : https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 
-#### Hall of Fame : Yohann Blackburn, Martin Berthier,Quentin Bertrand, Fanoa Razafimbelo, Janethe Ferhoune
+#### Equipe : Yohann Blackburn, Martin Berthier, Quentin Bertrand, Fanoa Razafimbelo, Janethe Ferhoune
     
     Référent : Kirian Guiller
     Évaluateur : Kirian Guiller, Kim Gerdes
